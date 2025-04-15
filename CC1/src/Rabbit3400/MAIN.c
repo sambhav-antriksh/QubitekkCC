@@ -1,4 +1,4 @@
-// this is comment //print the strings sent to the LCD on the screen
+ //print the strings sent to the LCD on the screen
 #define ECHOLCD 0
 //print out when a button press is detected
 #define ECHOSWITCH 1
